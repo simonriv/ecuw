@@ -34,7 +34,7 @@ Remember to set up SSH in your GitHub account.
 After that configure Terminal application with the following features:
 
 * `Run as Administrator`
-* `Nerd Font Mono`
+* `[Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip)`
 * `Font Size 14`
 * `Transparency 80%`
 * `Color Background Black`
